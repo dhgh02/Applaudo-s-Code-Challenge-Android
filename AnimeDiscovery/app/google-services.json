@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "273185520000",
+    "firebase_url": "https://animediscovery-be1de.firebaseio.com",
+    "project_id": "animediscovery-be1de",
+    "storage_bucket": "animediscovery-be1de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273185520000:android:b6dfa0a29dcd5906",
+        "android_client_info": {
+          "package_name": "com.applaudo.challenge.animediscovery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273185520000-g5l5n03p8a3drhv2kol2k0fp1bk5kdil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVVDOGjkKfnro29B7iqMUqmC1ort52B-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#09164E</color>
+    <color name="colorControlNormal">#09164E</color>
+    <color name="textColor">#09164E</color>
+    <color name="textColorHint">#09164E</color>
+    <color name="itemTextColor">#09164E</color>
+    <color name="seekBarProgressBackground">#09164E</color>
+    <color name="editTextBorderColor">#09164E</color>
+    <color name="itemIconTint">#09164E</color>
+
+    <color name="colorPrimary">#1e2e70</color>
+    <color name="navigationBarColor">#1e2e70</color>
+    <color name="backgroundButton">#1e2e70</color>
+
+    <color name="colorAccent">#4b5894</color>
+
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="colorBackground">#FFFFFF</color>
+
+    <color name="colorControlHighlight">#929bbf</color>
+
+    <color name="grid_no_radius_bg">#FFFFFF</color>
+    <color name="grid_top_radius_bg">#929bbf</color>
+
+    <color name="tituloTextView">#4b5894</color>
+    <color name="seekBarBackground">#4b5894</color>
+    <color name="background_footer">#90000000</color>
+
+    <color name="readOnlyBackGround">#E6E6E6</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>
