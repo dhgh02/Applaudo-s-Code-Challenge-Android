@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Anime Discovery</string>
+    <string name="title_activity_media_detail">Media Detail</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_internet_connection">You don´t have access to Mobile or Wifi provider</string>
+    <string name="retry_button">RETRY</string>
+    <string name="gettin_anime_manga">Getting Anime and Manga</string>
+    <string name="getting_information">Getting Information</string>
+    <string name="search_hint">Search By Genre</string>
+    <string name="error_button_accept">Accept</string>
+
+
+    <string name="EXTRA_MEDIA_DETAIL">com.applaudo.challenge.animediscovery.adapters.MEDIA_DETAIL</string>
+    <string name="EXTRA_YOUTUBE">com.applaudo.challenge.animediscovery.activities.YOUTUBE</string>
+
+    <string name="title_activity_youtube">YouTube</string>
+    <string name="title_unavailable_video">Video Unavailable</string>
+    <string name="message_unavailable_video">There is not video asociated</string>
+</resources>
